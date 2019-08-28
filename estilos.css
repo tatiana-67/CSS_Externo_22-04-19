@@ -1,0 +1,18 @@
+body   { background-image: url(01.jpg);
+	     background-repeat:no-repeat; 
+	     background-position:center;
+	     background-attachment:fixed;
+
+
+       }
+
+  p { font-family: verdana ;
+  	  font-size:300 ;
+
+
+     }
+
+  h1 {text-decoration: underline;
+
+
+     }
